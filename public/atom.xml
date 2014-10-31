@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Emplary Blog]]></title>
-  <link href="http://emplary.com/atom.xml" rel="self"/>
-  <link href="http://emplary.com/"/>
-  <updated>2014-10-31T10:23:46+00:00</updated>
-  <id>http://emplary.com/</id>
+  <link href="http://emplary.com/blog/atom.xml" rel="self"/>
+  <link href="http://emplary.com/blog/"/>
+  <updated>2014-10-31T15:22:15+00:00</updated>
+  <id>http://emplary.com/blog/</id>
   <author>
     <name><![CDATA[Emplary]]></name>
     
@@ -18,7 +18,43 @@
     <link href="http://emplary.com/blog/2014/10/31/hello-world/"/>
     <updated>2014-10-31T09:19:09+00:00</updated>
     <id>http://emplary.com/blog/2014/10/31/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hello World! This is a test</p>
+
+<h1>H1 Header</h1>
+
+<h2>H2 Header</h2>
+
+<h3>H3 Header</h3>
+
+<h4>H4 Header</h4>
+
+<h5>H5 Header</h5>
+
+<h6>H6 Header</h6>
+
+<blockquote><p>blockquote</p></blockquote>
+
+<ol>
+<li>ordered</li>
+<li>list</li>
+</ol>
+
+
+<p>horizontal line</p>
+
+<hr />
+
+<p>This is <a href="http://example.com/" title="Title">an example</a> inline link.</p>
+
+<p><a href="http://example.com/">http://example.com/</a></p>
+
+<p>See my <a href="http://emplary.com/blog/about/">About</a> page for details.</p>
+
+<p>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from
+<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+
+<p>  More after the break.</p>
+
 ]]></content>
   </entry>
   

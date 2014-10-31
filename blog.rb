@@ -1,4 +1,4 @@
-require 'bundler/setup'
+
 require 'sinatra/base'
 
 # The project root directory
@@ -21,5 +21,3 @@ class Blog < Sinatra::Base
   end
 
 end
-
-# run SinatraStaticServer

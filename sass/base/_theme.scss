@@ -18,7 +18,8 @@ $separator-line-color: lighten($text-color, 72) !default;
 
 // Main Link Colors
 $link-color: darken($subtitle-color, 0) !default;
-$link-color-hover: adjust-color($link-color, $lightness: -20, $saturation: 55) !default;
+$link-color-hover: #7ec8bc !default;
+// $link-color-hover: adjust-color($link-color, $lightness: -20, $saturation: 55) !default;
 $link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 

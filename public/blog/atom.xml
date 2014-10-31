@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Great food discovered]]></title>
+  <link href="http://emplary.com/blog/atom.xml" rel="self"/>
+  <link href="http://emplary.com/blog/"/>
+  <updated>2014-10-31T19:49:04+00:00</updated>
+  <id>http://emplary.com/blog/</id>
+  <author>
+    <name><![CDATA[Emplary]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[11 Serious Concerns About Vegetable Oils (No. 2 Is Scary)]]></title>
+    <link href="http://emplary.com/blog/2014/10/31/11-serious-concerns-about-vegetable-oils-no-2-is-scary/"/>
+    <updated>2014-10-31T16:05:59+00:00</updated>
+    <id>http://emplary.com/blog/2014/10/31/11-serious-concerns-about-vegetable-oils-no-2-is-scary</id>
+    <content type="html"><![CDATA[<p>Fats in the diet are highly controversial.  Saturated fat was previously blamed for raising cholesterol and causing heart disease, but this has now been disproven.</p>
+
+<p><img src="http://authoritynutrition.com/wp-content/uploads/2014/10/woman-startled-by-a-chicken.jpg" title="Scary" alt="Alt text" /></p>
+
+<p>For some reason, dietary guidelines still recommend that we consume vegetable oils instead of saturated fats like butter. This includes oils like soybean oil, cottonseed oil, canola oil, safflower oil, sunflower oil and grapeseed oil (and a few others). Vegetable oils are claimed to lower cholesterol levels, which should help prevent heart disease, the world’s biggest killer. However many studies have raised serious concerns about these oils.
+Despite lowering LDL cholesterol, they can have disastrous consequences for other aspects of health and metabolism. Here are 11 reasons to avoid vegetable oils like the plague.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://emplary.com/blog/2014/10/31/hello-world/"/>
+    <updated>2014-10-31T09:19:09+00:00</updated>
+    <id>http://emplary.com/blog/2014/10/31/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World! This is a test</p>
+
+<h1>H1 Header</h1>
+
+<h2>H2 Header</h2>
+
+<h3>H3 Header</h3>
+
+<h4>H4 Header</h4>
+
+<h5>H5 Header</h5>
+
+<h6>H6 Header</h6>
+
+<blockquote><p>blockquote</p></blockquote>
+
+<ol>
+<li>ordered</li>
+<li>list</li>
+</ol>
+
+
+<p>horizontal line</p>
+
+<hr />
+
+<p>This is <a href="http://example.com/" title="Title">an example</a> inline link.</p>
+
+<p><a href="http://example.com/">http://example.com/</a></p>
+
+<p>See my <a href="http://emplary.com/blog/about/">About</a> page for details.</p>
+
+<p>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from
+<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+
+<p>  More after the break.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
