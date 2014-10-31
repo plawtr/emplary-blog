@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-10-31T09:20:18+00:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Emplary Blog]]></title>
+  <link href="http://emplary.com/atom.xml" rel="self"/>
+  <link href="http://emplary.com/"/>
+  <updated>2014-10-31T10:21:08+00:00</updated>
+  <id>http://emplary.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Emplary]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/blog/2014/10/31/hello-world/"/>
+    <link href="http://emplary.com/blog/2014/10/31/hello-world/"/>
     <updated>2014-10-31T09:19:09+00:00</updated>
-    <id>http://yoursite.com/blog/2014/10/31/hello-world</id>
+    <id>http://emplary.com/blog/2014/10/31/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

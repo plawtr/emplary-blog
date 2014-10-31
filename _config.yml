@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://emplary.com
+title: Emplary Blog
+subtitle: Great food discovered for you.
+author: Emplary
 simple_search: https://www.google.com/search
 description:
 
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /blog
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
